@@ -2,9 +2,9 @@
 
 ## 👀 Como ficou ???
 
-<img src="./img/canva1.png" width="600px"></img>
+<img src="./img/canvas1.png" width="600px"></img>
 ----------
-<img src="./img/canva.png" width="600px"></img>
+<img src="./img/canvas.png" width="600px"></img>
 ----------
 
 ## 🧑‍💻 Tecnologias usadas
